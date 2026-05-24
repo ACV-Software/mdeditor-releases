@@ -2,7 +2,7 @@
 
 A clean, distraction-free markdown editor with dual editing modes — switch between a rich WYSIWYG preview and raw markdown whenever you want. Works as a native desktop app on Windows, macOS, and Linux.
 
-![Markdown Editor](https://img.shields.io/badge/version-0.9.2-blue)
+![Markdown Editor](https://img.shields.io/badge/version-0.9.3-blue)
 
 ---
 
@@ -12,10 +12,10 @@ Get the latest version from the [Releases page](../../releases/latest).
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Markdown-Editor-Setup-0.9.2.exe](../../releases/latest/download/Markdown-Editor-Setup-0.9.2.exe) |
-| **macOS (Apple Silicon)** | [Markdown-Editor-0.9.2-arm64.dmg](../../releases/latest/download/Markdown-Editor-0.9.2-arm64.dmg) |
-| **macOS (Intel)** | [Markdown-Editor-0.9.2.dmg](../../releases/latest/download/Markdown-Editor-0.9.2.dmg) |
-| **Linux** | [Markdown-Editor-0.9.2.AppImage](../../releases/latest/download/Markdown-Editor-0.9.2.AppImage) |
+| **Windows** | [Markdown-Editor-Setup-0.9.3.exe](../../releases/latest/download/Markdown-Editor-Setup-0.9.3.exe) |
+| **macOS (Apple Silicon)** | [Markdown-Editor-0.9.3-arm64.dmg](../../releases/latest/download/Markdown-Editor-0.9.3-arm64.dmg) |
+| **macOS (Intel)** | [Markdown-Editor-0.9.3.dmg](../../releases/latest/download/Markdown-Editor-0.9.3.dmg) |
+| **Linux** | [Markdown-Editor-0.9.3.AppImage](../../releases/latest/download/Markdown-Editor-0.9.3.AppImage) |
 
 ---
 
@@ -62,8 +62,8 @@ Get the latest version from the [Releases page](../../releases/latest).
 
 ### Linux
 1. Download the `.AppImage` file
-2. Make it executable: `chmod +x Markdown-Editor-0.9.2.AppImage`
-3. Run it: `./Markdown-Editor-0.9.2.AppImage`
+2. Make it executable: `chmod +x Markdown-Editor-0.9.3.AppImage`
+3. Run it: `./Markdown-Editor-0.9.3.AppImage`
 
 ---
 
@@ -91,4 +91,4 @@ Found a bug or have a feature request? [Open an issue](../../issues/new).
 
 ## License
 
-All rights reserved. This software is provided as-is for personal use.
+Free to use for personal and commercial purposes. The author reserves the right to change the licensing terms at any time.
