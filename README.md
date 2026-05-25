@@ -8,16 +8,16 @@ A clean, distraction-free markdown editor with dual editing modes — switch bet
 
 ## Download
 
-Get the latest version from the [Releases page](../../releases/latest).
+Get the latest version from the [Releases page](../../releases/latest).https://github.com/ACV-Software/mdeditor-releases/releases/download/v0.9.4/Markdown-Editor-0.9.4-arm64.dmg
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Markdown-Editor-Setup-0.9.4.exe](../../releases/latest/download/Markdown-Editor-Setup-0.9.4.exe) |
-| **macOS (Apple Silicon)** | [Markdown-Editor-0.9.4-arm64.dmg](../../releases/latest/download/Markdown-Editor-0.9.4-arm64.dmg) |
-| **macOS (Intel)** | [Markdown-Editor-0.9.4.dmg](../../releases/latest/download/Markdown-Editor-0.9.4.dmg) |
-| **Linux (AppImage)** | [Markdown-Editor-0.9.4.AppImage](../../releases/latest/download/Markdown-Editor-0.9.4.AppImage) |
-| **Linux (Debian/Ubuntu)** | [Markdown-Editor-0.9.4.deb](../../releases/latest/download/Markdown-Editor-0.9.4.deb) |
-| **Linux (Fedora/RHEL)** | [Markdown-Editor-0.9.4.rpm](../../releases/latest/download/Markdown-Editor-0.9.4.rpm) |
+| **Windows** | [Markdown-Editor-Setup-0.9.4.exe](../../releases/download/v0.9.4/Markdown-Editor-Setup-0.9.4.exe) |
+| **macOS (Apple Silicon)** | [Markdown-Editor-0.9.4-arm64.dmg](../../releases/download/v0.9.4/Markdown-Editor-0.9.4-arm64.dmg) |
+| **macOS (Intel)** | [Markdown-Editor-0.9.4.dmg](../../releases/download/v0.9.4/Markdown-Editor-0.9.4.dmg) |
+| **Linux (AppImage)** | [Markdown-Editor-0.9.4.AppImage](../../releases/download/v0.9.4/Markdown-Editor-0.9.4.AppImage) |
+| **Linux (Debian/Ubuntu)** | [Markdown-Editor-0.9.4.deb](../../releases/download/v0.9.4/Markdown-Editor-0.9.4.deb) |
+| **Linux (Fedora/RHEL)** | [Markdown-Editor-0.9.4.rpm](../../releases/download/v0.9.4/Markdown-Editor-0.9.4.rpm) |
 
 ---
 
