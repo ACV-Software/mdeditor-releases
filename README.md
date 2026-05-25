@@ -15,7 +15,9 @@ Get the latest version from the [Releases page](../../releases/latest).
 | **Windows** | [Markdown-Editor-Setup-0.9.4.exe](../../releases/latest/download/Markdown-Editor-Setup-0.9.4.exe) |
 | **macOS (Apple Silicon)** | [Markdown-Editor-0.9.4-arm64.dmg](../../releases/latest/download/Markdown-Editor-0.9.4-arm64.dmg) |
 | **macOS (Intel)** | [Markdown-Editor-0.9.4.dmg](../../releases/latest/download/Markdown-Editor-0.9.4.dmg) |
-| **Linux** | [Markdown-Editor-0.9.4.AppImage](../../releases/latest/download/Markdown-Editor-0.9.4.AppImage) |
+| **Linux (AppImage)** | [Markdown-Editor-0.9.4.AppImage](../../releases/latest/download/Markdown-Editor-0.9.4.AppImage) |
+| **Linux (Debian/Ubuntu)** | [Markdown-Editor-0.9.4.deb](../../releases/latest/download/Markdown-Editor-0.9.4.deb) |
+| **Linux (Fedora/RHEL)** | [Markdown-Editor-0.9.4.rpm](../../releases/latest/download/Markdown-Editor-0.9.4.rpm) |
 
 ---
 
@@ -61,9 +63,19 @@ Get the latest version from the [Releases page](../../releases/latest).
 3. On first launch, right-click the app → **Open** (to bypass Gatekeeper since the app is unsigned)
 
 ### Linux
+
+**AppImage** (any distribution)
 1. Download the `.AppImage` file
 2. Make it executable: `chmod +x Markdown-Editor-0.9.4.AppImage`
 3. Run it: `./Markdown-Editor-0.9.4.AppImage`
+
+**Debian / Ubuntu**
+1. Download the `.deb` file
+2. Install it: `sudo dpkg -i Markdown-Editor-0.9.4.deb`
+
+**Fedora / RHEL / openSUSE**
+1. Download the `.rpm` file
+2. Install it: `sudo rpm -i Markdown-Editor-0.9.4.rpm`
 
 ---
 
