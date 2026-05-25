@@ -2,7 +2,7 @@
 
 A clean, distraction-free markdown editor with dual editing modes — switch between a rich WYSIWYG preview and raw markdown whenever you want. Works as a native desktop app on Windows, macOS, and Linux.
 
-![Markdown Editor](https://img.shields.io/badge/version-0.9.3-blue)
+![Markdown Editor](https://img.shields.io/badge/version-0.9.4-blue)
 
 ---
 
@@ -12,17 +12,17 @@ Get the latest version from the [Releases page](../../releases/latest).
 
 | Platform | Download |
 |----------|----------|
-| **Windows** | [Markdown-Editor-Setup-0.9.3.exe](../../releases/latest/download/Markdown-Editor-Setup-0.9.3.exe) |
-| **macOS (Apple Silicon)** | [Markdown-Editor-0.9.3-arm64.dmg](../../releases/latest/download/Markdown-Editor-0.9.3-arm64.dmg) |
-| **macOS (Intel)** | [Markdown-Editor-0.9.3.dmg](../../releases/latest/download/Markdown-Editor-0.9.3.dmg) |
-| **Linux** | [Markdown-Editor-0.9.3.AppImage](../../releases/latest/download/Markdown-Editor-0.9.3.AppImage) |
+| **Windows** | [Markdown-Editor-Setup-0.9.4.exe](../../releases/latest/download/Markdown-Editor-Setup-0.9.4.exe) |
+| **macOS (Apple Silicon)** | [Markdown-Editor-0.9.4-arm64.dmg](../../releases/latest/download/Markdown-Editor-0.9.4-arm64.dmg) |
+| **macOS (Intel)** | [Markdown-Editor-0.9.4.dmg](../../releases/latest/download/Markdown-Editor-0.9.4.dmg) |
+| **Linux** | [Markdown-Editor-0.9.4.AppImage](../../releases/latest/download/Markdown-Editor-0.9.4.AppImage) |
 
 ---
 
 ## Features
 
 ### Dual Editing Modes
-- **Preview mode** — Google Docs-style WYSIWYG editing with a formatting toolbar
+- **Preview mode** — WYSIWYG editing with a formatting toolbar
 - **Raw mode** — Full markdown source with syntax highlighting (CodeMirror)
 - Switch seamlessly between modes — content stays in sync
 
@@ -62,8 +62,8 @@ Get the latest version from the [Releases page](../../releases/latest).
 
 ### Linux
 1. Download the `.AppImage` file
-2. Make it executable: `chmod +x Markdown-Editor-0.9.3.AppImage`
-3. Run it: `./Markdown-Editor-0.9.3.AppImage`
+2. Make it executable: `chmod +x Markdown-Editor-0.9.4.AppImage`
+3. Run it: `./Markdown-Editor-0.9.4.AppImage`
 
 ---
 
